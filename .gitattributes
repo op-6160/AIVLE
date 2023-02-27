@@ -1,4 +1,4 @@
 0216_web_crawling/day2/data
-
+00_self_project/dataset/battleground.csv
 
 *.csv filter=lfs diff=lfs merge=lfs -text

@@ -1,6 +1,7 @@
 #대용량파일제외
 0216_web_crawling/day2/data
-
+0213_MiniProject_1/1.1 BUS_STATION_BOARDING_MONTH_202204.csv
+0213_MiniProject_1/0213_dataset
 #ppt자료제외
 *.ppt
 *.pptx
